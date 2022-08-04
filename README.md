@@ -1,4 +1,4 @@
-# Maven-Gradle_Working_with_branches-
+# Maven-Gradle_Working_with_branches:
 
 1. Створити maven project та gradle project;
 
